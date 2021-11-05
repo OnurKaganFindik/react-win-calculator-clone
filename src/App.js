@@ -9,8 +9,8 @@ function App() {
   return (
     <AppContainer>
       <TopHeader />
-    <ScreenSection />
-    <KeysSection/>
+      <ScreenSection />
+      <KeysSection />
     </AppContainer>
   );
 }
